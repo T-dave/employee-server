@@ -1,0 +1,39 @@
+UserName tdavee already exists
+UserName tdave already exists
+UserName tdave already exists
+UserName tdave already exists
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+UserName David already exists
+UserName David already exists
+UserName David already exists
+UserName David already exists
+undefined	TypeError
+undefined	TypeError
+undefined	TypeError
+undefined	TypeError
+undefined	TypeError
+undefined	TypeError
+UserName Dave already exists
+UserName Dave already exists
+UserName Dave already exists
+UserName Dave already exists
+undefined	Error
+undefined	Error
+UserName ttts already exists
+undefined	ReferenceError
+undefined	ReferenceError
+undefined	ReferenceError
+undefined	ReferenceError
+undefined	ReferenceError
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	Error
+undefined	ReferenceError
