@@ -16,8 +16,7 @@ const createUser = async(req,res) =>{
 					const newUser = await User.create({
 					username: req.body.username,
 					roles:{
-						"Editor": 2004,
-						"Master": 1999
+						"Editor": 2004
 					},
 					password: hashedPwd
 				})
